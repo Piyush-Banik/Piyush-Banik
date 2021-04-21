@@ -20,4 +20,4 @@ I write open source on php, flutter, java & JavaScript technologies.
 [Piyush Banik](https://wwww.piyushbanik.io)\
 ✉️ <info@piyushbanik.io> \
 **Founder** of [Induni Technologies](https://www.induni.tech) \
-[<img src="https://imgur.com/rfoXxMU.png" width="180" height="40">](https://www.induni.tech)
+[<img src="https://imgur.com/rfoXxMU.png" width="180" height="55">](https://www.induni.tech)
